@@ -1,1 +1,4 @@
- my second git project
+ my second git project 
+ school is fun
+ and super cool
+ 
